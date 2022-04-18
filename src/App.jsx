@@ -11,7 +11,7 @@ function App() {
     <div className="App">
       <button onClick={()=>{
         setShow(!show)
-      }} className="togglebtn">Add student</button>
+      }} className="togglebtn">{show ? "Add new Student" : "Students List" }</button>
       {/* Show either  AddStudent component or ShowStudents dependeing on the above button click  */}
       {/* make sure the table is shown initially, do not show form initially */}
       {/* make sure to show either of them do not both together */}
