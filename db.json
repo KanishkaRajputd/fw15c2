@@ -1,0 +1,59 @@
+{
+  "students": [
+    {
+      "first_name": "lalita",
+      "last_name": "Rajput",
+      "email": "lalita@gmail.com",
+      "gender": "female",
+      "age": "35",
+      "tenth_score": "303",
+      "twelth_score": "504",
+      "preferred_branch": "science",
+      "id": 1
+    },
+    {
+      "first_name": "Kanishka",
+      "last_name": "Rajput",
+      "email": "kanishka@gmail.com",
+      "gender": "female",
+      "age": "20",
+      "tenth_score": "404",
+      "twelth_score": "498",
+      "preferred_branch": "law",
+      "id": 2
+    },
+    {
+      "first_name": "Yash",
+      "last_name": "Kumar",
+      "email": "yash@gmail.com",
+      "gender": "male",
+      "age": "17",
+      "tenth_score": "356",
+      "twelth_score": "400",
+      "preferred_branch": "sports",
+      "id": 3
+    },
+    {
+      "first_name": "dheeraj",
+      "last_name": "Rajput",
+      "email": "dj@gmail.com",
+      "gender": "male",
+      "age": "20",
+      "tenth_score": "349",
+      "twelth_score": "550",
+      "preferred_branch": "acting",
+      "id": 4
+    },
+    {
+      "first_name": "Pradeep ",
+      "last_name": "Kumar",
+      "email": "plky@gmail.com",
+      "gender": "male",
+      "age": "45",
+      "tenth_score": "278",
+      "twelth_score": "460",
+      "preferred_branch": "commerce",
+      "id": 5
+    }
+  ]
+}
